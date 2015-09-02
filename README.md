@@ -1,6 +1,3 @@
-zabbix-synology-snmp
+zabbix template
 ====================
-
-zabbix synolgy snmp template
-
-Template for zabbbix to take data from synology
+some change for me
